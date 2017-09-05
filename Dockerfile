@@ -1,5 +1,5 @@
 FROM php:$VERSION
-MAINTAINER Mark Shust <mark.shust@mageinferno.com>
+MAINTAINER Phil Birnie <phil@7thstreetweb.com>
 
 RUN apt-get update && apt-get install -y \
   cron \
