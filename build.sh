@@ -1,5 +1,5 @@
 #!/bin/bash
-declare -a VERSIONS=('5.6-fpm' '7.0-fpm' '7.1-fpm')
+declare -a VERSIONS=('7.0-fpm' '7.1-fpm')
 
 for i in "${VERSIONS[@]}"
 do
